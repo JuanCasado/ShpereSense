@@ -13,10 +13,10 @@ SphereSense is intended to be used like it has been descrived avobe but it will 
 The API will provide the hand state and 3D coordintes of the hands.
 
 * **RIGHT_HAND_STATE** : boolean
-* **LEFT_HAND_STATE** : boolean
-* **COORDINATES** : {x : float, y : float, z : float}
-* **RIGHT_HAND** : {x : float, y : float}
-* **LEFT_HAND** : {x : float, y : float}
+* **LEFT_HAND_STATE**  : boolean
+* **COORDINATES**      : {x : float, y : float, z : float}
+* **RIGHT_HAND**       : {x : float, y : float}
+* **LEFT_HAND**        : {x : float, y : float}
 
 ## Input
 
