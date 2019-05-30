@@ -1,6 +1,6 @@
 # SphereSense
 
-This library will allow you to controll anything just by moving your hands in front of the screen.
+This library will allow you to control anything just by moving your hands in front of the screen.
 It uses an image recognition engine to track your hands translating their postion to spherical coordinates.
 
 One hand is used as an anchor to determine the relative position in 3D space of the other hand.
@@ -12,11 +12,11 @@ SphereSense is intended to be used like it has been descrived avobe but it will 
 
 The API will provide the hand state and 3D coordintes of the hands.
 
-* RIGHT_HAND_STATE : boolean
-* LEFT_HAND_STATE : boolean
-* COORDINATES : {x : float, y : float, z : float}
-* RIGHT_HAND : {x : float, y : float}
-* LEFT_HAND : {x : float, y : float}
+* **RIGHT_HAND_STATE** : boolean
+* **LEFT_HAND_STATE** : boolean
+* **COORDINATES** : {x : float, y : float, z : float}
+* **RIGHT_HAND** : {x : float, y : float}
+* **LEFT_HAND** : {x : float, y : float}
 
 ## Input
 
